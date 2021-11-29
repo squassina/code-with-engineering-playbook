@@ -23,6 +23,22 @@ their own, and adjust times, communication channels, branch naming policies etc.
 - We communicate all information relevant to the team through the Project Teams channel
 - We add all [technical spikes](../../design/design-reviews/recipes/technical-spike.md), [trade studies](../../design/design-reviews/trade-studies/README.md), and other technical documentation to the project repository through [async design reviews in PRs](../../design/design-reviews/recipes/async-design-reviews.md)
 
+## Practice Growth Mindset
+
+TO-DO
+
+## Accessible and Blameless Team Culture
+
+TO-DO
+
+## Be inclusive
+
+TO-DO
+
+## Respect and Integrity
+
+TO-DO
+
 ## Work-life Balance
 
 - Our office hours, when we can expect to collaborate via Microsoft Teams, phone or face-to-face are Monday to Friday 10AM - 5PM
